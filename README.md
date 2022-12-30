@@ -3,11 +3,12 @@
 <h1 align="center">Hi 👋, I'm Anas Draiaf</h1>
 <h3 align="center">A passionate full stack developer from morocco</h3>
 
+
 <img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="307" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maker-dev&label=Profile%20views&color=0e75b6&style=flat" alt="maker-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maker-dev" alt="maker-dev" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maker-dev&label=Profile%20views&color=0e75b6&style=flat" alt="maker-dev" /> </p>
 
 - 🌱 I’m currently learning **Laravel Framework**
 
