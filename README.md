@@ -1,25 +1,9 @@
-### Hi there 👋
-
-<!--
-**maker-dev/maker-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Anas Draiaf</h1>
 <h3 align="center">A passionate full stack developer from morocco</h3>
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="307" />
+<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="307" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maker-dev&label=Profile%20views&color=0e75b6&style=flat" alt="maker-dev" /> </p>
 
