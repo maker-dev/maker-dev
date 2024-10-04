@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maker-dev" alt="maker-dev" /></a> </p>
 
-- 🔭 I’m currently working on [chat-application](https://github.com/maker-dev/chat-application)
+- 🔭 I’m currently building innovative web applications
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **DJANGO**
 
 - 💬 Ask me about **React js**
 
