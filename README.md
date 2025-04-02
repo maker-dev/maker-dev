@@ -100,18 +100,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maker-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=maker-dev&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maker-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="150" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
