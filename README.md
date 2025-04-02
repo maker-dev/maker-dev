@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Anas Draiaf from Morocco.<br><br>- 🔭 I’m working as a web developer.<br>- 📚 I'm currently learning web scraping and exploring React Native.<br>- ⚡ In my free time, I enjoy building side projects, learning new technologies, and improving my coding skills.</p>
+<p align="left">I'm Anas Draiaf from Morocco.<br><br>- 🔭 I’m working as a web developer.<br>- 📚 I'm currently learning web scraping and exploring web technologies.<br>- ⚡ In my free time, I enjoy building side projects, learning new technologies, and improving my coding skills.<br>- 🎲 Fun fact: I enjoy solving coding challenges and experimenting with new frameworks just for fun!</p>
 
 ###
 
